@@ -1,2 +1,2 @@
 # Aerea Cloud
-Aerea Cloud Business Manager
+Cloud Business Manager
